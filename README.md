@@ -101,3 +101,9 @@ techs version used in the project
 ## Fonts
 
 - [badges](https://github.com/Ileriayo/markdown-badges)
+
+## Author
+
+<a href="https://www.linkedin.com/in/jerry-dev-084793203/">
+  <img width="150" height="150" src="https://user-images.githubusercontent.com/62398638/226929073-2c757280-6acf-4641-9fc1-bd7bb1f0485c.jpeg" />
+<a/>
